@@ -12,6 +12,8 @@ Suppport specific Time For WAIT AND Retir for retrie Connection
 Support Custom Headers
 Support Custom USER Agent
 Support HTTP Authentication
+Support Custom Directory For Download file
+Support ALL File
 ### Installation Instruction ###
 all install is on INSTALL.md
 all requirements found on requirements.txt
