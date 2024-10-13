@@ -8,7 +8,7 @@ Support FTP Anonymously
 Support IPV6
 Support Force Https
 Support ignore CERT Expiration
-Suppport specific Time For WAIT AND Retir for retrie Connection
+Suppport specific Time For WAIT AND Retry Connection For You Network has disconnected
 Support Custom Headers
 Support Custom USER Agent
 Support HTTP Authentication
